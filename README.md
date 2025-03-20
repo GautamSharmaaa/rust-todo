@@ -1,4 +1,4 @@
-# 🦀 rust-todo  
+# 🦀 A simple and powerful CLI To-Do List App built with Rust!
 *A simple and powerful CLI To-Do List App built with Rust!*  
 
 🌟 **Manage your tasks efficiently with rust-todo!**  
