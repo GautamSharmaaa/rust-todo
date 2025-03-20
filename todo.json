@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Finish Rust project",
+    "done": true,
+    "priority": "High",
+    "due_date": "2025-03-25"
+  },
+  {
+    "id": 2,
+    "description": "Read a book",
+    "done": false,
+    "priority": "Medium",
+    "due_date": "2025-03-20"
+  }
+]
