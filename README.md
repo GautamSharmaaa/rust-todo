@@ -1,5 +1,3 @@
-
-```md
 # 🦀 rust-todo  
 *A simple and powerful CLI To-Do List App built with Rust!*  
 
