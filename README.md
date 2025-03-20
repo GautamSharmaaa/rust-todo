@@ -95,17 +95,4 @@ cargo run -- remove 1
 
 ---
 
-## 🤝 Contributing  
-Want to improve `rust-todo`? Fork this repo and submit a pull request! Contributions are welcome. 🚀  
-
----
-
-## 📄 License  
-This project is licensed under the **MIT License**.  
-
----
-
 ✨ **Built with ❤️ and Rust!** 🦀  
-```
-
----
